@@ -1,6 +1,6 @@
 # 🎯 Tracking vs Regulation in Control Systems
-
 In Control Theory the problems are broken down to either a **Tracking** or **Regulation** problem. **Tracking** and **Regulation** are two fundamental control objectives, each dealing with different aspects of system performance.
+
 ---
 
 ## 🛠️ Regulation: Keeping Things Steady
